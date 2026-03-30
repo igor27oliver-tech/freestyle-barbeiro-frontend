@@ -29,23 +29,6 @@ O sistema permite cadastrar agendamentos, consultar horários disponíveis, gere
 - Layout responsivo para desktop e mobile
 - Tratamento de loading, erro e estado vazio
 
-## Visual do sistema
-O projeto foi desenvolvido com uma proposta visual mais sofisticada, usando uma identidade escura e elegante inspirada em barbearias modernas.
-
-## Imagens do sistema
-Adicione aqui capturas de tela do frontend.
-
-### Dashboard
-![Dashboard](./assets/dashboard.png)
-
-### Novo agendamento
-![Novo agendamento](./assets/novo-agendamento.png)
-
-### Painel administrativo
-![Painel administrativo](./assets/painel-admin.png)
-
-> Se ainda não tiver as imagens, pode deixar essa parte para depois.
-
 ## Integração com a API
 
 A aplicação consome a API local em:
@@ -166,25 +149,6 @@ Para o sistema funcionar corretamente:
 ```java
 @CrossOrigin(origins = "http://localhost:5173")
 ```
-
-## Destaques do projeto
-
-- ✨ Interface moderna e profissional
-- 🏗️ Arquitetura organizada para crescimento
-- 🔄 Componentes reutilizáveis
-- 🔐 Separação clara entre interface e consumo da API
-- 🚀 Projeto preparado para futuras melhorias
-
-## Melhorias futuras
-
-- 🔐 Autenticação de administrador
-- 📅 Filtro por data
-- 🔍 Busca por cliente
-- ✏️ Edição e exclusão de registros
-- 🔔 Notificações de sucesso e erro
-- 📊 Gráficos no dashboard
-- 🎨 Tema customizável
-- ☁️ Deploy em produção
 
 ## Autor
 
